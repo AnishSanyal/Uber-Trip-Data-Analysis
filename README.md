@@ -7,3 +7,11 @@ Packages used:-
 3.Seaborn
 
 Open using Jupyter notebook for an enhanced scientific experience!
+
+
+The Problem is to understand and analyze the path of UBER Rides in a certain area and provide a solution.
+
+Objective of this coding solution:-
+
+1. Help analyze the common uber cab pick up and drop points.
+2. Busy areas in a certain location.
